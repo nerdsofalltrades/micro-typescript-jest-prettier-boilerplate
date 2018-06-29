@@ -1,8 +1,5 @@
 # Microservice with Micro, Typescript, Jest and Prettier boilerplate
 
-[![Build Status](https://api.travis-ci.org/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate@.svg?branch=master)](https://travis-ci.org/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate)
-[![Greenkeeper badge](https://badges.greenkeeper.io/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg)](https://greenkeeper.io/)
-
 A boilerplate for building microservices with Micro, Typescript and Jest.
 
 ## Installation
