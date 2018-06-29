@@ -1,6 +1,11 @@
 # Microservice with Micro, Typescript, Jest and Prettier boilerplate
 
+<<<<<<< Updated upstream
 [![CircleCI](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg?style=svg)](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate) [![Greenkeeper badge](https://badges.greenkeeper.io/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg)](https://greenkeeper.io/)
+=======
+[![CircleCI](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg?style=svg)](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate)
+[![Greenkeeper badge](https://badges.greenkeeper.io/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg)](https://greenkeeper.io/)
+>>>>>>> Stashed changes
 
 A boilerplate for building microservices with Micro, Typescript and Jest.
 
