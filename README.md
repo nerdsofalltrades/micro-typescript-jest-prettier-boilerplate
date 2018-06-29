@@ -1,5 +1,7 @@
 # Microservice with Micro, Typescript, Jest and Prettier boilerplate
 
+[![CircleCI](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate.svg?style=svg)](https://circleci.com/gh/nerdsofalltrades/micro-typescript-jest-prettier-boilerplate)
+
 A boilerplate for building microservices with Micro, Typescript and Jest.
 
 ## Installation
