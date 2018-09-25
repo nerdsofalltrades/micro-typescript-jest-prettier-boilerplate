@@ -33,7 +33,7 @@
     "prettier": "^1.13.6",
     "source-map": "^0.7.3",
     "ts-jest": "^22.4.6",
-    "tsc-watch": "^1.0.22",
+    "tsc-watch": "^1.0.29",
     "tslint": "^5.10.0",
     "tslint-eslint-rules": "^5.3.1",
     "typescript": "^2.9.2"
